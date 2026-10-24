@@ -214,6 +214,9 @@ The Power BI report contains two interactive dashboard pages.
 
 ### Page 1 — Customer Churn Overview
 
+<img width="1371" height="751" alt="CUSTOMER_CHURN_OVERVIEW" src="https://github.com/user-attachments/assets/e0d7c6ee-b266-4f57-b289-c45187fdd5dd" />
+
+
 **KPIs**
 - Total Customers
 - Churned Customers
@@ -234,6 +237,8 @@ The Power BI report contains two interactive dashboard pages.
 This page provides a high-level overview of customer churn and retention, allowing users to compare customer segments and identify groups with elevated churn rates.
 
 ### Page 2 — Churn Drivers & Risk Analysis
+
+<img width="1372" height="749" alt="CHURN_DRIVERS_AND_RISK_ANALYSIS" src="https://github.com/user-attachments/assets/b04bf367-78a4-40fb-a454-6e998481050c" />
 
 **KPIs**
 - High-Risk Customers
